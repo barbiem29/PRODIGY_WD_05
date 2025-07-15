@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App – PRODIGY_WD_05
 
 A clean and responsive weather application that fetches real-time weather data using the OpenWeatherMap API. Users can check weather conditions by entering any city name. The app displays temperature, humidity, wind speed, and overall weather conditions with an aesthetic UI.
@@ -35,3 +36,7 @@ A clean and responsive weather application that fetches real-time weather data u
    ```bash
    git clone https://github.com/barbiem29/PRODIGY_WD_05.git
    cd PRODIGY_WD_05
+=======
+# PRODIGY_WD_05
+Created a web app that fetches real-time weather data from an external API based on the user's current or custom-input location. Displays temperature, conditions, and other key weather metrics in a clean and responsive interface.
+>>>>>>> 4249bf2e0133c35a65cabbacad08068ebcec49d6
